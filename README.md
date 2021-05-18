@@ -3,4 +3,4 @@
 
 ## Recording videos:
 
-* Day 1 -https://transcripts.gotomeeting.com/#/s/66a2281258e6c8978da6bf517c1664535938d6291d815e8437a7bdd319e3bb96
+* Day 2 (18-05-2021) -https://transcripts.gotomeeting.com/#/s/66a2281258e6c8978da6bf517c1664535938d6291d815e8437a7bdd319e3bb96
