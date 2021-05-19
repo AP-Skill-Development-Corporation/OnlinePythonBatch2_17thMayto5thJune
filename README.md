@@ -51,7 +51,9 @@ Everyone should compulsory follow the below instruction in order to get the atte
 7. Operators in pythons
 
 ## [Class File](https://github.com/AP-Skill-Development-Corporation/OnlinePythonBatch2_17thMayto5thJune/tree/main/Day3-19-05-2021(python%20operartors)
+
 ## [Class vedio]()
+-------------
 
 
 
