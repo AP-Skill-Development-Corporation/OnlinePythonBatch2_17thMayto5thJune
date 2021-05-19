@@ -14,9 +14,9 @@ Everyone should compulsory follow the below instruction in order to get the atte
 #### Attendance sheet reference purpose only(make sure to follow above instructions to get present) → [[clickHere]]()
 ### Day1 Introduction to Python and Software Installation (17/May/2021):
 1. Installation of anaconda
-  1. [click here to download anaconda](https://www.anaconda.com/products/individual/)
+    1. [click here to download anaconda](https://www.anaconda.com/products/individual/)
 3. Registarion steps for github
-  1.[click here to register](http://engineering.apssdc.in/)
+    1. [click here to register](http://engineering.apssdc.in/)
 ### Day2 Introduction to Markdown Syntax and Python Features and Applications (18/May/2021): 
 ## Discussed Concepts
 
