@@ -37,7 +37,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
     1. For documentation
 ### [[Day02_Slides]](https://github.com/AP-Skill-Development-Corporation/OnlinePythonBatch2_17thMayto5thJune/blob/main/Day2-18-05-2021(Python%20Basics)/Programming_Using_Python_Slides.pdf), 
 ### [markdown cheet sheet ](https://www.markdownguide.org/cheat-sheet/)
-### [[Day02_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/66a2281258e6c8978da6bf517c1664535938d6291d815e8437a7bdd319e3bb96)
+### [[Day02_Recorded_Video]](https://drive.google.com/drive/folders/1P4ZvRO1emPGWdFzbiFTly4CfZh-23hUC)
 ---------
 
 
