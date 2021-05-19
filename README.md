@@ -39,5 +39,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
 ### [markdown cheet sheet ](https://www.markdownguide.org/cheat-sheet/)
 ### [[Day02_Recorded_Video]](https://drive.google.com/drive/folders/1P4ZvRO1emPGWdFzbiFTly4CfZh-23hUC)
 ---------
+## Day3 Python basics,Keywords in Python,Operators in Python(19/May/2021)
+## 
 
 
