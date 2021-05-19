@@ -41,6 +41,17 @@ Everyone should compulsory follow the below instruction in order to get the atte
 ### [[Day02_Recorded_Video]](https://drive.google.com/drive/folders/1P4ZvRO1emPGWdFzbiFTly4CfZh-23hUC)
 ---------
 ## Day3 Python basics,Keywords in Python,Operators in Python(19/May/2021)
-## 
+##Discussed Topics
+1. Inserting mathematical formulas in markdown
+2. Defining orderd and un-orderd list in markdown
+3. Python data types
+4. Defining variable and properties of variable in python
+5. Keywords in python
+6. Type casting in Python
+7. Operators in pythons
+
+## [Class File](https://github.com/AP-Skill-Development-Corporation/OnlinePythonBatch2_17thMayto5thJune/tree/main/Day3-19-05-2021(python%20operartors)
+## [Class vedio]()
+
 
 
