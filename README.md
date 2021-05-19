@@ -35,13 +35,13 @@ Everyone should compulsory follow the below instruction in order to get the atte
 3. Jupyter Notebook Environment
 4.  Markdown Syntax
     1. For documentation
-### [Class file](https://github.com/AP-Skill-Development-Corporation/OnlinePythonBatch2_17thMayto5thJune/blob/main/Day2-18-05-2021(Python%20Basics)/markdown.ipynb)
+### [Jupyter file](https://github.com/AP-Skill-Development-Corporation/OnlinePythonBatch2_17thMayto5thJune/blob/main/Day2-18-05-2021(Python%20Basics)/markdown.ipynb)
 ### [[Day02_Slides]](https://github.com/AP-Skill-Development-Corporation/OnlinePythonBatch2_17thMayto5thJune/blob/main/Day2-18-05-2021(Python%20Basics)/Programming_Using_Python_Slides.pdf), 
 ### [markdown cheet sheet ](https://www.markdownguide.org/cheat-sheet/)
 ### [[Day02_Recorded_Video]](https://drive.google.com/drive/folders/1P4ZvRO1emPGWdFzbiFTly4CfZh-23hUC)
 ---------
 ## Day3 Python basics,Keywords in Python,Operators in Python(19/May/2021)
-##Discussed Topics
+## Discussed Topics
 1. Inserting mathematical formulas in markdown
 2. Defining orderd and un-orderd list in markdown
 3. Python data types
@@ -50,7 +50,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
 6. Type casting in Python
 7. Operators in pythons
 
-## [Class File](https://github.com/AP-Skill-Development-Corporation/OnlinePythonBatch2_17thMayto5thJune/blob/main/Day3-19-05-2021(python%20operartors)/python%20operators.ipynb)
+## [Jupyter File](https://github.com/AP-Skill-Development-Corporation/OnlinePythonBatch2_17thMayto5thJune/blob/main/Day3-19-05-2021(python%20operartors)/python%20operators.ipynb)
 
 ## [Class vedio]()
 -------------
