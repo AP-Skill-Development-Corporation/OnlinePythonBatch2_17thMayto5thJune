@@ -30,10 +30,10 @@ Everyone should compulsory follow the below instruction in order to get the atte
 1. Python Programming Applications 
 1. Softwares for Python Programming 
 1. Anaconda Installation 
-2. 1. Difference between `.py` files versus `.ipynb` files
+2. Difference between `.py` files versus `.ipynb` files
 1. Literate Programming
 3. Jupyter Notebook Environment
-4. 4. Markdown Syntax
+4.  Markdown Syntax
    1. For documentation
 ### [[Day02_Slides]](https://github.com/AP-Skill-Development-Corporation/OnlinePythonBatch2_17thMayto5thJune/blob/main/Day2-18-05-2021(Python%20Basics)/Programming_Using_Python_Slides.pdf), 
 ### [markdown cheet sheet ](https://www.markdownguide.org/cheat-sheet/)
