@@ -35,6 +35,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
 3. Jupyter Notebook Environment
 4.  Markdown Syntax
     1. For documentation
+### [Class file](https://github.com/AP-Skill-Development-Corporation/OnlinePythonBatch2_17thMayto5thJune/blob/main/Day2-18-05-2021(Python%20Basics)/markdown.ipynb)
 ### [[Day02_Slides]](https://github.com/AP-Skill-Development-Corporation/OnlinePythonBatch2_17thMayto5thJune/blob/main/Day2-18-05-2021(Python%20Basics)/Programming_Using_Python_Slides.pdf), 
 ### [markdown cheet sheet ](https://www.markdownguide.org/cheat-sheet/)
 ### [[Day02_Recorded_Video]](https://drive.google.com/drive/folders/1P4ZvRO1emPGWdFzbiFTly4CfZh-23hUC)
