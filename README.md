@@ -52,7 +52,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
 
 ## [Jupyter File](https://github.com/AP-Skill-Development-Corporation/OnlinePythonBatch2_17thMayto5thJune/blob/main/Day3-19-05-2021(python%20operartors)/python%20operators.ipynb)
 
-## [Class vedio]()
+## [[Day03_Recorded_Video]](https://drive.google.com/drive/folders/1UChuz1bZVKwzhDfBoafm3QvmMTfVSGXN?usp=sharing)
 -------------
 
 
