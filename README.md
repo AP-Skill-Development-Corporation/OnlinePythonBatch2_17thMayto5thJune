@@ -64,8 +64,6 @@ Everyone should compulsory follow the below instruction in order to get the atte
     - Identity Operators
 - Dynamical Input in Python
     - Type converstion of dynamic input
-
-
 ##[Jupyter file](https://github.com/AP-Skill-Development-Corporation/OnlinePythonBatch2_17thMayto5thJune/blob/main/Day4-20-05-2021(Python%20opearrors%2Cconditional%20statements)/Operators%2C%20Conditional%20Statements.ipynb)
 
 ##{vedio]()
