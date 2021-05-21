@@ -69,6 +69,19 @@ Everyone should compulsory follow the below instruction in order to get the atte
 
 ## [Day04_Recorded_Video](https://drive.google.com/drive/u/0/mobile/folders/1JqRIw9lFbX2GaCP0V9MxyorWRUi91kZb/1ivkzlug8KDJKvepT8cfHdnjKmt8eHTpF?usp=sharing&sort=13&direction=a)
 ------------
+## Day 5 -Python Operators,Dynamical Input (21-05-202)
+- Printing Attributes
+- conditional statements
+-   - if else
+-   - if elif
+-   - Nested if
+- Loops
+    - for
+- LOOP CONTROLS
+    - break
+    - continue
+    - pass
+## [Jupyter file](https://github.com/AP-Skill-Development-Corporation/OnlinePythonBatch2_17thMayto5thJune/tree/main/Day5-21-05-2021(Conditions%2CLoops))
 
 
 
