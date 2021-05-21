@@ -67,7 +67,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
     - 
 ## [Jupyter file](https://github.com/AP-Skill-Development-Corporation/OnlinePythonBatch2_17thMayto5thJune/blob/main/Day4-20-05-2021(Python%20opearrors%2Cconditional%20statements)/Operators%2C%20Conditional%20Statements.ipynb)
 
-## [vedio]()
+## [20-5-2021 recorded video](https://drive.google.com/drive/u/0/mobile/folders/1JqRIw9lFbX2GaCP0V9MxyorWRUi91kZb/1ivkzlug8KDJKvepT8cfHdnjKmt8eHTpF?usp=sharing&sort=13&direction=a)
 ------------
 
 
