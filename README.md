@@ -11,7 +11,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
 
 
 
-#### Attendance sheet reference purpose only(make sure to follow above instructions to get present) → [[clickHere]]()
+#### Attendance sheet reference purpose only(make sure to follow above instructions to get present) → [[clickHere]](https://drive.google.com/file/d/1VA2bsxV3g6CioBtV0VvNuSPOk22CTWoq/view?usp=sharing)
 ### Day1 Introduction to Python and Software Installation (17/May/2021):
 1. Installation of anaconda
     1. [click here to download anaconda](https://www.anaconda.com/products/individual/)
