@@ -84,6 +84,16 @@ Everyone should compulsory follow the below instruction in order to get the atte
 ## [Jupyter file](https://github.com/AP-Skill-Development-Corporation/OnlinePythonBatch2_17thMayto5thJune/tree/main/Day5-21-05-2021(Conditions%2CLoops))
 
 ## [Day05_Recorded_Video](https://drive.google.com/drive/folders/19Bl3yCPzV5ZLhbejazgUXE8SFtqsTjtR?usp=sharing)
-
+-------------------------------
+## Day 6 -Flow Control Statements,Function in Python (22-05-202)
+- While Loop
+    - break
+    - continue
+- Functions
+    - builtin functions
+    - user defined function
+## [Jupyter file](https://github.com/AP-Skill-Development-Corporation/OnlinePythonBatch2_17thMayto5thJune/blob/main/Day6-22-05-2021(While%2CFunctions)/While%2CFunctions.ipynb) 
+## [Vedio]()
+----------------------
 
 
