@@ -83,5 +83,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
     - pass
 ## [Jupyter file](https://github.com/AP-Skill-Development-Corporation/OnlinePythonBatch2_17thMayto5thJune/tree/main/Day5-21-05-2021(Conditions%2CLoops))
 
+## [Day05_Recorded_Video](https://drive.google.com/drive/folders/19Bl3yCPzV5ZLhbejazgUXE8SFtqsTjtR?usp=sharing)
+
 
 
