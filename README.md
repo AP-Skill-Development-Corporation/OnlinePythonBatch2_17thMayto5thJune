@@ -93,7 +93,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
     - builtin functions
     - user defined function
 ## [Jupyter file](https://github.com/AP-Skill-Development-Corporation/OnlinePythonBatch2_17thMayto5thJune/blob/main/Day6-22-05-2021(While%2CFunctions)/While%2CFunctions.ipynb) 
-## [Day05_Recorded_Video](https://drive.google.com/file/d/1TcZUbJ5DafRzpZIRtdcTV0GsUdXcO76b/view?usp=sharing)
+## [Day06_Recorded_Video](https://drive.google.com/file/d/1TcZUbJ5DafRzpZIRtdcTV0GsUdXcO76b/view?usp=sharing)
 ----------------------
 
 
