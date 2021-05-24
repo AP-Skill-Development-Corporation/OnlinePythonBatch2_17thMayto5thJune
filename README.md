@@ -103,5 +103,5 @@ Everyone should compulsory follow the below instruction in order to get the atte
     - Variable Length Arguments
     - Keyword Length Arguments
 - Task's
-## [Jupyter file](https://github.com/AP-Skill-Development-Corporation/OnlinePythonBatch2_17thMayto5thJune/blob/main/day7-24-05-2021(Function%20arguments%2CStrings)/Function%20Arguments%20%2CStrings%2C%20Task.ipynb)
+## [Jupyter file](https://github.com/AP-Skill-Development-Corporation/OnlinePythonBatch2_17thMayto5thJune/blob/main/day7-24-05-2021(Function%20arguments%2CStrings)/Function%20Arguments%20%2CTask.ipynb)
 
