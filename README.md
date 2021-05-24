@@ -95,5 +95,13 @@ Everyone should compulsory follow the below instruction in order to get the atte
 ## [Jupyter file](https://github.com/AP-Skill-Development-Corporation/OnlinePythonBatch2_17thMayto5thJune/blob/main/Day6-22-05-2021(While%2CFunctions)/While%2CFunctions.ipynb) 
 ## [Day06_Recorded_Video](https://drive.google.com/file/d/1TcZUbJ5DafRzpZIRtdcTV0GsUdXcO76b/view?usp=sharing)
 ----------------------
-
+## Day 7 -Function Arguments (22-05-202)
+- Function Arguments
+    - Positional Arguments
+    - keyword Arguments
+    - Default Arguments
+    - Variable Length Arguments
+    - Keyword Length Arguments
+- Task's
+## [Jupyter file](https://github.com/AP-Skill-Development-Corporation/OnlinePythonBatch2_17thMayto5thJune/blob/main/day7-24-05-2021(Function%20arguments%2CStrings)/Function%20Arguments%20%2CStrings%2C%20Task.ipynb)
 
