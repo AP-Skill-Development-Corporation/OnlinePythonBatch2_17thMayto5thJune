@@ -106,4 +106,16 @@ Everyone should compulsory follow the below instruction in order to get the atte
 ## [Jupyter file](https://github.com/AP-Skill-Development-Corporation/OnlinePythonBatch2_17thMayto5thJune/blob/main/day7-24-05-2021(Function%20arguments%2CStrings)/Function%20Arguments%20%2CTask.ipynb)
 
 ## [Day07_Recorded_Video](https://drive.google.com/file/d/1VA2bsxV3g6CioBtV0VvNuSPOk22CTWoq/view?usp=sharing)
+----------------------
+## Day 8 -Strings (25-05-2021)
+- Strings
+    - String basics
+    - Indexing (positive,negtive)
+    - String slicing
+    - String predefined functions
+    - String methods
+- Task's
+## [Jupyter file](https://github.com/AP-Skill-Development-Corporation/OnlinePythonBatch2_17thMayto5thJune)
+
+## [Day07_Recorded_Video](https://drive.google.com/file/d/1VA2bsxV3g6CioBtV0VvNuSPOk22CTWoq/view?usp=sharing)
 
