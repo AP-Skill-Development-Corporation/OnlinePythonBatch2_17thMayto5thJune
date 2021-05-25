@@ -69,7 +69,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
 
 ## [Day04_Recorded_Video](https://drive.google.com/drive/u/0/mobile/folders/1JqRIw9lFbX2GaCP0V9MxyorWRUi91kZb/1ivkzlug8KDJKvepT8cfHdnjKmt8eHTpF?usp=sharing&sort=13&direction=a)
 ------------
-## Day 5 -Python Operators,Dynamical Input (21-05-202)
+## Day 5 -Python Operators,Dynamical Input (21-05-2021)
 - Printing Attributes
 - conditional statements
 -   - if else
@@ -85,7 +85,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
 
 ## [Day05_Recorded_Video](https://drive.google.com/drive/folders/19Bl3yCPzV5ZLhbejazgUXE8SFtqsTjtR?usp=sharing)
 -------------------------------
-## Day 6 -Flow Control Statements,Function in Python (22-05-202)
+## Day 6 -Flow Control Statements,Function in Python (22-05-2021)
 - While Loop
     - break
     - continue
@@ -95,7 +95,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
 ## [Jupyter file](https://github.com/AP-Skill-Development-Corporation/OnlinePythonBatch2_17thMayto5thJune/blob/main/Day6-22-05-2021(While%2CFunctions)/While%2CFunctions.ipynb) 
 ## [Day06_Recorded_Video](https://drive.google.com/file/d/1TcZUbJ5DafRzpZIRtdcTV0GsUdXcO76b/view?usp=sharing)
 ----------------------
-## Day 7 -Function Arguments (22-05-202)
+## Day 7 -Function Arguments (24-05-2021)
 - Function Arguments
     - Positional Arguments
     - keyword Arguments
@@ -104,4 +104,6 @@ Everyone should compulsory follow the below instruction in order to get the atte
     - Keyword Length Arguments
 - Task's
 ## [Jupyter file](https://github.com/AP-Skill-Development-Corporation/OnlinePythonBatch2_17thMayto5thJune/blob/main/day7-24-05-2021(Function%20arguments%2CStrings)/Function%20Arguments%20%2CTask.ipynb)
+
+## [Day07_Recorded_Video](https://drive.google.com/file/d/1VA2bsxV3g6CioBtV0VvNuSPOk22CTWoq/view?usp=sharing)
 
