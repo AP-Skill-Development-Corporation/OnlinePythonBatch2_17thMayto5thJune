@@ -115,7 +115,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
     - String predefined functions
     - String methods
 - Task's
-## [Jupyter file](https://github.com/AP-Skill-Development-Corporation/OnlinePythonBatch2_17thMayto5thJune)
+## [Jupyter file](https://github.com/AP-Skill-Development-Corporation/OnlinePythonBatch2_17thMayto5thJune/tree/main/Day8-25-05-2021%20(Strings))
 
-## [Day07_Recorded_Video](https://drive.google.com/file/d/1VA2bsxV3g6CioBtV0VvNuSPOk22CTWoq/view?usp=sharing)
+## [Day07_Recorded_Video](https://drive.google.com/drive/u/0/mobile/folders/1JqRIw9lFbX2GaCP0V9MxyorWRUi91kZb?usp=sharing)
 
