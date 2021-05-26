@@ -127,8 +127,8 @@ Everyone should compulsory follow the below instruction in order to get the atte
     - Introduction
     - Types of datastructures
     - Lists
-           - List basics
-           - List buitin functions
+         - List basics
+         - List buitin functions
 ## [Jupyter file](https://github.com/AP-Skill-Development-Corporation/OnlinePythonBatch2_17thMayto5thJune/tree/main/Day8-25-05-2021%20(Strings))
 
 ## [Day09_Recorded_Video](https://drive.google.com/drive/folders/1JqRIw9lFbX2GaCP0V9MxyorWRUi91kZb?usp=sharing)
