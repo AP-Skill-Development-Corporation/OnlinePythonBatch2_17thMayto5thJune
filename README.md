@@ -105,7 +105,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
 - Task's
 ## [Jupyter file](https://github.com/AP-Skill-Development-Corporation/OnlinePythonBatch2_17thMayto5thJune/blob/main/day7-24-05-2021(Function%20arguments%2CStrings)/Function%20Arguments%20%2CTask.ipynb)
 
-## [Day07_Recorded_Video](https://drive.google.com/file/d/1VA2bsxV3g6CioBtV0VvNuSPOk22CTWoq/view?usp=sharing)
+## [Day07_Recorded_Video](https://drive.google.com/drive/folders/1CoQAii_TPl8wQi9N5QXQrj5IFWfpRzMv?usp=sharing)
 ----------------------
 ## Day 8 -Strings (25-05-2021)
 - Strings
