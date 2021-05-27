@@ -132,4 +132,14 @@ Everyone should compulsory follow the below instruction in order to get the atte
 ## [Jupyter file](https://github.com/AP-Skill-Development-Corporation/OnlinePythonBatch2_17thMayto5thJune/tree/main/Day9-26-05-2021(String%20methods%2CDatastructures-list))
 
 ## [Day09_Recorded_Video](https://drive.google.com/drive/folders/1JqRIw9lFbX2GaCP0V9MxyorWRUi91kZb?usp=sharing)
+----------------------
+## Day 10 -Lists (25-05-2021)
+- Lists
+    - List Indexing (positive,negtive)
+    - List slicing
+    - Nested list
+    - List methods
+- Task's
+## [Jupyter file](https://github.com/AP-Skill-Development-Corporation/OnlinePythonBatch2_17thMayto5thJune/tree/main/Day8-25-05-2021%20(Strings))
 
+## [Day10_Recorded_Video](https://drive.google.com/drive/folders/1JqRIw9lFbX2GaCP0V9MxyorWRUi91kZb?usp=sharing)
