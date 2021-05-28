@@ -154,6 +154,6 @@ Everyone should compulsory follow the below instruction in order to get the atte
     -  Dictionary indexing,slicing
     -  Dictionary builtin functions
 - Task's
-## [Jupyter file](https://github.com/AP-Skill-Development-Corporation/OnlinePythonBatch2_17thMayto5thJune/tree/main/Day10-27-05-2021(List%20methods))
+## [Jupyter file](https://github.com/AP-Skill-Development-Corporation/OnlinePythonBatch2_17thMayto5thJune/tree/main/Day11-28-05-2021(tuples%2Cdictionary))
 
 ## [Day11_Recorded_Video](https://drive.google.com/drive/folders/1JqRIw9lFbX2GaCP0V9MxyorWRUi91kZb?usp=sharing)
