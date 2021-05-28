@@ -128,7 +128,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
     - Types of datastructures
     - Lists
          - List basics
-         - List buitin functions
+         - List builtin functions
 ## [Jupyter file](https://github.com/AP-Skill-Development-Corporation/OnlinePythonBatch2_17thMayto5thJune/tree/main/Day9-26-05-2021(String%20methods%2CDatastructures-list))
 
 ## [Day09_Recorded_Video](https://drive.google.com/drive/folders/1JqRIw9lFbX2GaCP0V9MxyorWRUi91kZb?usp=sharing)
@@ -143,3 +143,17 @@ Everyone should compulsory follow the below instruction in order to get the atte
 ## [Jupyter file](https://github.com/AP-Skill-Development-Corporation/OnlinePythonBatch2_17thMayto5thJune/tree/main/Day10-27-05-2021(List%20methods))
 
 ## [Day10_Recorded_Video](https://drive.google.com/drive/folders/1JqRIw9lFbX2GaCP0V9MxyorWRUi91kZb?usp=sharing)
+----------------------
+## Day 11 -Tuples,Dictionary (28-05-2021)
+- Tuples:
+     - Tuple basics
+     - Tuple indexing,slicing
+     - Tuple methods
+- Dictionary
+    -  Dictionary  basics
+    -  Dictionary indexing,slicing
+    -  Dictionary builtin functions
+- Task's
+## [Jupyter file](https://github.com/AP-Skill-Development-Corporation/OnlinePythonBatch2_17thMayto5thJune/tree/main/Day10-27-05-2021(List%20methods))
+
+## [Day11_Recorded_Video](https://drive.google.com/drive/folders/1JqRIw9lFbX2GaCP0V9MxyorWRUi91kZb?usp=sharing)
