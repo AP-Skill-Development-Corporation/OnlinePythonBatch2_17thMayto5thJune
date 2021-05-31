@@ -170,3 +170,18 @@ Everyone should compulsory follow the below instruction in order to get the atte
 ## [Jupyter file](https://github.com/AP-Skill-Development-Corporation/OnlinePythonBatch2_17thMayto5thJune/tree/main/Day12-29-05-2021(Dictionary%20methods%2Csets))
 
 ## [Day12_Recorded_Video](https://drive.google.com/drive/folders/1JqRIw9lFbX2GaCP0V9MxyorWRUi91kZb?usp=sharing)
+----------------------
+## Day 13 -Tuples,Dictionary (31-05-2021)
+- Packages and Modules
+    -  User Defined Packages and modules
+    -  Using From Different Location using (sys.path)
+    -  Builtin Modules
+- Regular Expressions
+     - Basics
+     - REgex Functions(Search(),match(),findall())
+    -  RegEx Symbols
+     - Examples  
+- Task's
+## [Jupyter file](https://github.com/AP-Skill-Development-Corporation/OnlinePythonBatch2_17thMayto5thJune/tree/main/Day12-29-05-2021(Dictionary%20methods%2Csets))
+
+## [Day13_Recorded_Video](https://drive.google.com/drive/folders/1JqRIw9lFbX2GaCP0V9MxyorWRUi91kZb?usp=sharing)
