@@ -200,6 +200,6 @@ Everyone should compulsory follow the below instruction in order to get the atte
     -  File Methods(write(),writelines(),read(size),readline(),readlines())
      - Examples  
 - Task's (Tomorrow I will give)
-## [Jupyter file] (https://github.com/AP-Skill-Development-Corporation/OnlinePythonBatch2_17thMayto5thJune/tree/main/Day14-01-06-2021(File%20Handling%20in%20Python))
+## [Jupyter file](https://github.com/AP-Skill-Development-Corporation/OnlinePythonBatch2_17thMayto5thJune/tree/main/Day14-01-06-2021(File%20Handling%20in%20Python))
 
 ## [Day14_Recorded_Video]()
