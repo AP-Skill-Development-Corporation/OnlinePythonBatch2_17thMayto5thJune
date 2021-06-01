@@ -185,3 +185,21 @@ Everyone should compulsory follow the below instruction in order to get the atte
 ## [Jupyter file](https://github.com/AP-Skill-Development-Corporation/OnlinePythonBatch2_17thMayto5thJune/tree/main/Day13-31-05-2021(Packages%20and%20Modules%2CRegularExpressions))
 
 ## [Day13_Recorded_Video](https://drive.google.com/drive/folders/1JqRIw9lFbX2GaCP0V9MxyorWRUi91kZb?usp=sharing)
+
+----------------------------------
+
+## Day 14 -File Handling in Python (01-06-2021)
+- Files in Python Programmimg
+    -  What is File ?
+    -  Why use Files? 
+    -  Importance of Files?
+    -  What is File Data Processing
+    -  Os Modules
+     - File Modes
+     - File Operations(Open(),write(),read(),close())
+    -  File Methods(write(),writelines(),read(size),readline(),readlines())
+     - Examples  
+- Task's (Tomorrow I will give)
+## [Jupyter file]()
+
+## [Day13_Recorded_Video]()
