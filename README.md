@@ -191,15 +191,15 @@ Everyone should compulsory follow the below instruction in order to get the atte
 ## Day 14 -File Handling in Python (01-06-2021)
 - Files in Python Programmimg
     -  What is File ?
-    -  Why use Files? 
-    -  Importance of Files?
+    -  Why use Files ? 
+    -  Importance of Files ?
     -  What is File Data Processing
-    -  Os Modules
+    -  Os Module
      - File Modes
-     - File Operations(Open(),write(),read(),close())
+     - File Operations(Open,write,read,close)
     -  File Methods(write(),writelines(),read(size),readline(),readlines())
      - Examples  
 - Task's (Tomorrow I will give)
-## [Jupyter file]()
+## [Jupyter file] (https://github.com/AP-Skill-Development-Corporation/OnlinePythonBatch2_17thMayto5thJune/tree/main/Day14-01-06-2021(File%20Handling%20in%20Python))
 
-## [Day13_Recorded_Video]()
+## [Day14_Recorded_Video]()
