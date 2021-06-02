@@ -203,3 +203,23 @@ Everyone should compulsory follow the below instruction in order to get the atte
 ## [Jupyter file](https://github.com/AP-Skill-Development-Corporation/OnlinePythonBatch2_17thMayto5thJune/tree/main/Day14-01-06-2021(File%20Handling%20in%20Python))
 
 ## [Day14_Recorded_Video]()
+
+-------------------------------------
+## Day 15 -File Handling in Python (02-06-2021)
+ - Append and Close Operations in files
+    -  How to use files with functions?
+    -  Tell() and Seek() Methods
+    -  List Comprehensions in Python
+    -  Dictionary Comprehensions in Python
+    -  Funtional Programming in Python
+    -  map(),filter(),reduce()
+    -  Lambda with map(),filter(),reduce() functions
+    - Examples  
+- Task's
+-   1. Write a Function which returns line count in text file
+-   2. Write a Function which returns no of words in a text file
+-   3. Write a Function which returns sum of numbers in a text file
+-   4. Write a Function which takes n range of users data dynamically and reads the data
+## [Jupyter file](https://github.com/AP-Skill-Development-Corporation/OnlinePythonBatch2_17thMayto5thJune/tree/main/Day14-01-06-2021(File%20Handling%20in%20Python))
+
+## [Day15_Recorded_Video]()
