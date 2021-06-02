@@ -1,0 +1,7 @@
+Today is Tuesday
+ hello Everyone
+1.Python is fun
+2.Data Science
+3.Machine Learning
+4.Django
+5.AI
