@@ -214,12 +214,13 @@ Everyone should compulsory follow the below instruction in order to get the atte
     -  Funtional Programming in Python
     -  map(),filter(),reduce()
     -  Lambda with map(),filter(),reduce() functions
-    - Examples  
+    -  Examples  
 - Task's
 -   1. Write a Function which returns line count in text file
 -   2. Write a Function which returns no of words in a text file
 -   3. Write a Function which returns sum of numbers in a text file
 -   4. Write a Function which takes n range of users data dynamically and reads the data
-## [Jupyter file](https://github.com/AP-Skill-Development-Corporation/OnlinePythonBatch2_17thMayto5thJune/tree/main/Day14-01-06-2021(File%20Handling%20in%20Python))
+-   
+## [Jupyter file](https://github.com/AP-Skill-Development-Corporation/OnlinePythonBatch2_17thMayto5thJune/tree/main/Day15-02-06-2021(List%20Comprehensions%20in%20Python))
 
 ## [Day15_Recorded_Video]()
