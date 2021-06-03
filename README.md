@@ -228,18 +228,19 @@ Everyone should compulsory follow the below instruction in order to get the atte
 
 ---------------------------------------
 ## Day 16 - Oops in Python (03-06-2021)
- -Introducton About Oops
-    -  What is object oriented programming?
-    -  Why we oops?
-    -  Applications of oops
-    -  POP vs OOPS
-    -  Contents of OOPS
-    -  Class
-    -  Object
-    -  Constructor Method
-    -  Class variables and Instance variables
-    -  Inheritance (single,multilevel,multiple)
-    -  Encapuslation
+ -  Introducton About Oops
+ 
+ -  What is object oriented programming?
+ -  Why we oops?
+ -  Applications of oops
+ -  POP vs OOPS
+ -  Contents of OOPS
+ -  Class
+ -  Object
+ -  Constructor Method
+ -  Class variables and Instance variables
+ -  Inheritance (single,multilevel,multiple)
+ -  Encapuslation
     
 ## [Jupyter file](https://github.com/AP-Skill-Development-Corporation/OnlinePythonBatch2_17thMayto5thJune/tree/main/Day16-03-06-2021(Oops%20in%20Python))
 
