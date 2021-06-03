@@ -241,7 +241,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
     -  Inheritance (single,multilevel,multiple)
     -  Encapuslation
     
-## [Jupyter file](https://github.com/AP-Skill-Development-Corporation/OnlinePythonBatch2_17thMayto5thJune/tree/main/Day15-02-06-2021(List%20Comprehensions%20in%20Python))
+## [Jupyter file](https://github.com/AP-Skill-Development-Corporation/OnlinePythonBatch2_17thMayto5thJune/tree/main/Day16-03-06-2021(Oops%20in%20Python))
 
 ## [Day15_Recorded_Video]()
 
