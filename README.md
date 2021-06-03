@@ -224,3 +224,24 @@ Everyone should compulsory follow the below instruction in order to get the atte
 ## [Jupyter file](https://github.com/AP-Skill-Development-Corporation/OnlinePythonBatch2_17thMayto5thJune/tree/main/Day15-02-06-2021(List%20Comprehensions%20in%20Python))
 
 ## [Day15_Recorded_Video]()
+
+
+---------------------------------------
+## Day 16 - Oops in Python (03-06-2021)
+ -Introducton About Oops
+    -  What is object oriented programming?
+    -  Why we oops?
+    -  Applications of oops
+    -  POP vs OOPS
+    -  Contents of OOPS
+    -  Class
+    -  Object
+    -  Constructor Method
+    -  Class variables and Instance variables
+    -  Inheritance (single,multilevel,multiple)
+    -  Encapuslation
+    
+## [Jupyter file](https://github.com/AP-Skill-Development-Corporation/OnlinePythonBatch2_17thMayto5thJune/tree/main/Day15-02-06-2021(List%20Comprehensions%20in%20Python))
+
+## [Day15_Recorded_Video]()
+
