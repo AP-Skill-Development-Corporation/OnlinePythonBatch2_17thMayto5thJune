@@ -244,5 +244,24 @@ Everyone should compulsory follow the below instruction in order to get the atte
     
 ## [Jupyter file](https://github.com/AP-Skill-Development-Corporation/OnlinePythonBatch2_17thMayto5thJune/tree/main/Day16-03-06-2021(Oops%20in%20Python))
 
-## [Day15_Recorded_Video]()
+## [Day16_Recorded_Video]()
+
+------------------------
+## Day 17 - Oops in Python (04-06-2021)
+ -  Data Encapsualtion in Oops
+ 
+ -  Data Hiding in Oops
+ -  Ploymorphism in Oops
+ -  Data Abstraction Oops
+ -  Data Science Packages (Numpy,Pandas,Matplotlib)
+ -  What is Numpy Package?
+ -  What are Numpy arrays?
+ -  How to create Numpy arrays?
+ -  Numpy Methods
+ 
+    
+## [Jupyter file](https://github.com/AP-Skill-Development-Corporation/OnlinePythonBatch2_17thMayto5thJune/tree/main/Day16-03-06-2021(Oops%20in%20Python))
+
+## [Day17_Recorded_Video]()
+
 
