@@ -260,7 +260,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
  -  Numpy Methods
  
     
-## [Jupyter file](https://github.com/AP-Skill-Development-Corporation/OnlinePythonBatch2_17thMayto5thJune/tree/main/Day16-03-06-2021(Oops%20in%20Python))
+## [Jupyter file](https://github.com/AP-Skill-Development-Corporation/OnlinePythonBatch2_17thMayto5thJune/tree/main/Day17-04-06-2021(Oops%20and%20Data%20Science%20Packages%20in%20Python))
 
 ## [Day17_Recorded_Video]()
 
