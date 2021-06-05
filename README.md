@@ -252,7 +252,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
  
  -  Data Hiding in Oops
  -  Ploymorphism in Oops
- -  Data Abstraction Oops
+ -  Data Abstraction in Oops
  -  Data Science Packages (Numpy,Pandas,Matplotlib)
  -  What is Numpy Package?
  -  What are Numpy arrays?
